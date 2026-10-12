@@ -1,0 +1,870 @@
+{
+ "surum": "16.19.1",
+ "sampiyonlar": [
+  {
+   "id": "Aatrox",
+   "ad": "Aatrox",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Ahri",
+   "ad": "Ahri",
+   "rol": "Mage"
+  },
+  {
+   "id": "Akali",
+   "ad": "Akali",
+   "rol": "Assassin"
+  },
+  {
+   "id": "Akshan",
+   "ad": "Akshan",
+   "rol": "Marksman"
+  },
+  {
+   "id": "Alistar",
+   "ad": "Alistar",
+   "rol": "Tank"
+  },
+  {
+   "id": "Ambessa",
+   "ad": "Ambessa",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Amumu",
+   "ad": "Amumu",
+   "rol": "Tank"
+  },
+  {
+   "id": "Anivia",
+   "ad": "Anivia",
+   "rol": "Mage"
+  },
+  {
+   "id": "Annie",
+   "ad": "Annie",
+   "rol": "Mage"
+  },
+  {
+   "id": "Aphelios",
+   "ad": "Aphelios",
+   "rol": "Marksman"
+  },
+  {
+   "id": "Ashe",
+   "ad": "Ashe",
+   "rol": "Marksman"
+  },
+  {
+   "id": "AurelionSol",
+   "ad": "Aurelion Sol",
+   "rol": "Mage"
+  },
+  {
+   "id": "Aurora",
+   "ad": "Aurora",
+   "rol": "Mage"
+  },
+  {
+   "id": "Azir",
+   "ad": "Azir",
+   "rol": "Mage"
+  },
+  {
+   "id": "Bard",
+   "ad": "Bard",
+   "rol": "Support"
+  },
+  {
+   "id": "Belveth",
+   "ad": "Bel'Veth",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Blitzcrank",
+   "ad": "Blitzcrank",
+   "rol": "Tank"
+  },
+  {
+   "id": "Brand",
+   "ad": "Brand",
+   "rol": "Mage"
+  },
+  {
+   "id": "Braum",
+   "ad": "Braum",
+   "rol": "Tank"
+  },
+  {
+   "id": "Briar",
+   "ad": "Briar",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Caitlyn",
+   "ad": "Caitlyn",
+   "rol": "Marksman"
+  },
+  {
+   "id": "Camille",
+   "ad": "Camille",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Cassiopeia",
+   "ad": "Cassiopeia",
+   "rol": "Mage"
+  },
+  {
+   "id": "Chogath",
+   "ad": "Cho'Gath",
+   "rol": "Tank"
+  },
+  {
+   "id": "Corki",
+   "ad": "Corki",
+   "rol": "Marksman"
+  },
+  {
+   "id": "Darius",
+   "ad": "Darius",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Diana",
+   "ad": "Diana",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Draven",
+   "ad": "Draven",
+   "rol": "Marksman"
+  },
+  {
+   "id": "DrMundo",
+   "ad": "Dr. Mundo",
+   "rol": "Tank"
+  },
+  {
+   "id": "Ekko",
+   "ad": "Ekko",
+   "rol": "Assassin"
+  },
+  {
+   "id": "Elise",
+   "ad": "Elise",
+   "rol": "Assassin"
+  },
+  {
+   "id": "Evelynn",
+   "ad": "Evelynn",
+   "rol": "Assassin"
+  },
+  {
+   "id": "Ezreal",
+   "ad": "Ezreal",
+   "rol": "Marksman"
+  },
+  {
+   "id": "Fiddlesticks",
+   "ad": "Fiddlesticks",
+   "rol": "Mage"
+  },
+  {
+   "id": "Fiora",
+   "ad": "Fiora",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Fizz",
+   "ad": "Fizz",
+   "rol": "Assassin"
+  },
+  {
+   "id": "Galio",
+   "ad": "Galio",
+   "rol": "Tank"
+  },
+  {
+   "id": "Gangplank",
+   "ad": "Gangplank",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Garen",
+   "ad": "Garen",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Gnar",
+   "ad": "Gnar",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Gragas",
+   "ad": "Gragas",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Graves",
+   "ad": "Graves",
+   "rol": "Marksman"
+  },
+  {
+   "id": "Gwen",
+   "ad": "Gwen",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Hecarim",
+   "ad": "Hecarim",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Heimerdinger",
+   "ad": "Heimerdinger",
+   "rol": "Mage"
+  },
+  {
+   "id": "Hwei",
+   "ad": "Hwei",
+   "rol": "Mage"
+  },
+  {
+   "id": "Illaoi",
+   "ad": "Illaoi",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Irelia",
+   "ad": "Irelia",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Ivern",
+   "ad": "Ivern",
+   "rol": "Support"
+  },
+  {
+   "id": "Janna",
+   "ad": "Janna",
+   "rol": "Support"
+  },
+  {
+   "id": "JarvanIV",
+   "ad": "Jarvan IV",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Jax",
+   "ad": "Jax",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Jayce",
+   "ad": "Jayce",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Jhin",
+   "ad": "Jhin",
+   "rol": "Marksman"
+  },
+  {
+   "id": "Jinx",
+   "ad": "Jinx",
+   "rol": "Marksman"
+  },
+  {
+   "id": "Kaisa",
+   "ad": "Kai'Sa",
+   "rol": "Marksman"
+  },
+  {
+   "id": "Kalista",
+   "ad": "Kalista",
+   "rol": "Marksman"
+  },
+  {
+   "id": "Karma",
+   "ad": "Karma",
+   "rol": "Mage"
+  },
+  {
+   "id": "Karthus",
+   "ad": "Karthus",
+   "rol": "Mage"
+  },
+  {
+   "id": "Kassadin",
+   "ad": "Kassadin",
+   "rol": "Assassin"
+  },
+  {
+   "id": "Katarina",
+   "ad": "Katarina",
+   "rol": "Assassin"
+  },
+  {
+   "id": "Kayle",
+   "ad": "Kayle",
+   "rol": "Marksman"
+  },
+  {
+   "id": "Kayn",
+   "ad": "Kayn",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Kennen",
+   "ad": "Kennen",
+   "rol": "Mage"
+  },
+  {
+   "id": "Khazix",
+   "ad": "Kha'Zix",
+   "rol": "Assassin"
+  },
+  {
+   "id": "Kindred",
+   "ad": "Kindred",
+   "rol": "Marksman"
+  },
+  {
+   "id": "Kled",
+   "ad": "Kled",
+   "rol": "Fighter"
+  },
+  {
+   "id": "KogMaw",
+   "ad": "Kog'Maw",
+   "rol": "Marksman"
+  },
+  {
+   "id": "KSante",
+   "ad": "K'Sante",
+   "rol": "Tank"
+  },
+  {
+   "id": "Leblanc",
+   "ad": "LeBlanc",
+   "rol": "Assassin"
+  },
+  {
+   "id": "LeeSin",
+   "ad": "Lee Sin",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Leona",
+   "ad": "Leona",
+   "rol": "Tank"
+  },
+  {
+   "id": "Lillia",
+   "ad": "Lillia",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Lissandra",
+   "ad": "Lissandra",
+   "rol": "Mage"
+  },
+  {
+   "id": "Locke",
+   "ad": "Locke",
+   "rol": "Assassin"
+  },
+  {
+   "id": "Lucian",
+   "ad": "Lucian",
+   "rol": "Marksman"
+  },
+  {
+   "id": "Lulu",
+   "ad": "Lulu",
+   "rol": "Support"
+  },
+  {
+   "id": "Lux",
+   "ad": "Lux",
+   "rol": "Mage"
+  },
+  {
+   "id": "Malphite",
+   "ad": "Malphite",
+   "rol": "Tank"
+  },
+  {
+   "id": "Malzahar",
+   "ad": "Malzahar",
+   "rol": "Mage"
+  },
+  {
+   "id": "Maokai",
+   "ad": "Maokai",
+   "rol": "Tank"
+  },
+  {
+   "id": "MasterYi",
+   "ad": "Master Yi",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Mel",
+   "ad": "Mel",
+   "rol": "Mage"
+  },
+  {
+   "id": "Milio",
+   "ad": "Milio",
+   "rol": "Support"
+  },
+  {
+   "id": "MissFortune",
+   "ad": "Miss Fortune",
+   "rol": "Marksman"
+  },
+  {
+   "id": "MonkeyKing",
+   "ad": "Wukong",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Mordekaiser",
+   "ad": "Mordekaiser",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Morgana",
+   "ad": "Morgana",
+   "rol": "Support"
+  },
+  {
+   "id": "Naafiri",
+   "ad": "Naafiri",
+   "rol": "Assassin"
+  },
+  {
+   "id": "Nami",
+   "ad": "Nami",
+   "rol": "Support"
+  },
+  {
+   "id": "Nasus",
+   "ad": "Nasus",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Nautilus",
+   "ad": "Nautilus",
+   "rol": "Tank"
+  },
+  {
+   "id": "Neeko",
+   "ad": "Neeko",
+   "rol": "Mage"
+  },
+  {
+   "id": "Nidalee",
+   "ad": "Nidalee",
+   "rol": "Assassin"
+  },
+  {
+   "id": "Nilah",
+   "ad": "Nilah",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Nocturne",
+   "ad": "Nocturne",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Nunu",
+   "ad": "Nunu ve Willump",
+   "rol": "Tank"
+  },
+  {
+   "id": "Olaf",
+   "ad": "Olaf",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Orianna",
+   "ad": "Orianna",
+   "rol": "Mage"
+  },
+  {
+   "id": "Ornn",
+   "ad": "Ornn",
+   "rol": "Tank"
+  },
+  {
+   "id": "Pantheon",
+   "ad": "Pantheon",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Poppy",
+   "ad": "Poppy",
+   "rol": "Tank"
+  },
+  {
+   "id": "Pyke",
+   "ad": "Pyke",
+   "rol": "Support"
+  },
+  {
+   "id": "Qiyana",
+   "ad": "Qiyana",
+   "rol": "Assassin"
+  },
+  {
+   "id": "Quinn",
+   "ad": "Quinn",
+   "rol": "Marksman"
+  },
+  {
+   "id": "Rakan",
+   "ad": "Rakan",
+   "rol": "Support"
+  },
+  {
+   "id": "Rammus",
+   "ad": "Rammus",
+   "rol": "Tank"
+  },
+  {
+   "id": "RekSai",
+   "ad": "Rek'Sai",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Rell",
+   "ad": "Rell",
+   "rol": "Tank"
+  },
+  {
+   "id": "Renata",
+   "ad": "Renata Glasc",
+   "rol": "Support"
+  },
+  {
+   "id": "Renekton",
+   "ad": "Renekton",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Rengar",
+   "ad": "Rengar",
+   "rol": "Assassin"
+  },
+  {
+   "id": "Riven",
+   "ad": "Riven",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Rumble",
+   "ad": "Rumble",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Ryze",
+   "ad": "Ryze",
+   "rol": "Mage"
+  },
+  {
+   "id": "Samira",
+   "ad": "Samira",
+   "rol": "Marksman"
+  },
+  {
+   "id": "Sejuani",
+   "ad": "Sejuani",
+   "rol": "Tank"
+  },
+  {
+   "id": "Senna",
+   "ad": "Senna",
+   "rol": "Support"
+  },
+  {
+   "id": "Seraphine",
+   "ad": "Seraphine",
+   "rol": "Support"
+  },
+  {
+   "id": "Sett",
+   "ad": "Sett",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Shaco",
+   "ad": "Shaco",
+   "rol": "Assassin"
+  },
+  {
+   "id": "Shen",
+   "ad": "Shen",
+   "rol": "Tank"
+  },
+  {
+   "id": "Shyvana",
+   "ad": "Shyvana",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Singed",
+   "ad": "Singed",
+   "rol": "Tank"
+  },
+  {
+   "id": "Sion",
+   "ad": "Sion",
+   "rol": "Tank"
+  },
+  {
+   "id": "Sivir",
+   "ad": "Sivir",
+   "rol": "Marksman"
+  },
+  {
+   "id": "Skarner",
+   "ad": "Skarner",
+   "rol": "Tank"
+  },
+  {
+   "id": "Smolder",
+   "ad": "Smolder",
+   "rol": "Marksman"
+  },
+  {
+   "id": "Sona",
+   "ad": "Sona",
+   "rol": "Support"
+  },
+  {
+   "id": "Soraka",
+   "ad": "Soraka",
+   "rol": "Support"
+  },
+  {
+   "id": "Swain",
+   "ad": "Swain",
+   "rol": "Mage"
+  },
+  {
+   "id": "Sylas",
+   "ad": "Sylas",
+   "rol": "Mage"
+  },
+  {
+   "id": "Syndra",
+   "ad": "Syndra",
+   "rol": "Mage"
+  },
+  {
+   "id": "TahmKench",
+   "ad": "Tahm Kench",
+   "rol": "Tank"
+  },
+  {
+   "id": "Taliyah",
+   "ad": "Taliyah",
+   "rol": "Mage"
+  },
+  {
+   "id": "Talon",
+   "ad": "Talon",
+   "rol": "Assassin"
+  },
+  {
+   "id": "Taric",
+   "ad": "Taric",
+   "rol": "Support"
+  },
+  {
+   "id": "Teemo",
+   "ad": "Teemo",
+   "rol": "Marksman"
+  },
+  {
+   "id": "Thresh",
+   "ad": "Thresh",
+   "rol": "Support"
+  },
+  {
+   "id": "Tristana",
+   "ad": "Tristana",
+   "rol": "Marksman"
+  },
+  {
+   "id": "Trundle",
+   "ad": "Trundle",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Tryndamere",
+   "ad": "Tryndamere",
+   "rol": "Fighter"
+  },
+  {
+   "id": "TwistedFate",
+   "ad": "Twisted Fate",
+   "rol": "Mage"
+  },
+  {
+   "id": "Twitch",
+   "ad": "Twitch",
+   "rol": "Marksman"
+  },
+  {
+   "id": "Udyr",
+   "ad": "Udyr",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Urgot",
+   "ad": "Urgot",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Varus",
+   "ad": "Varus",
+   "rol": "Marksman"
+  },
+  {
+   "id": "Vayne",
+   "ad": "Vayne",
+   "rol": "Marksman"
+  },
+  {
+   "id": "Veigar",
+   "ad": "Veigar",
+   "rol": "Mage"
+  },
+  {
+   "id": "Velkoz",
+   "ad": "Vel'Koz",
+   "rol": "Mage"
+  },
+  {
+   "id": "Vex",
+   "ad": "Vex",
+   "rol": "Mage"
+  },
+  {
+   "id": "Vi",
+   "ad": "Vi",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Viego",
+   "ad": "Viego",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Viktor",
+   "ad": "Viktor",
+   "rol": "Mage"
+  },
+  {
+   "id": "Vladimir",
+   "ad": "Vladimir",
+   "rol": "Mage"
+  },
+  {
+   "id": "Volibear",
+   "ad": "Volibear",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Warwick",
+   "ad": "Warwick",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Xayah",
+   "ad": "Xayah",
+   "rol": "Marksman"
+  },
+  {
+   "id": "Xerath",
+   "ad": "Xerath",
+   "rol": "Mage"
+  },
+  {
+   "id": "XinZhao",
+   "ad": "Xin Zhao",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Yasuo",
+   "ad": "Yasuo",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Yone",
+   "ad": "Yone",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Yorick",
+   "ad": "Yorick",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Yunara",
+   "ad": "Yunara",
+   "rol": "Marksman"
+  },
+  {
+   "id": "Yuumi",
+   "ad": "Yuumi",
+   "rol": "Support"
+  },
+  {
+   "id": "Zaahen",
+   "ad": "Zaahen",
+   "rol": "Fighter"
+  },
+  {
+   "id": "Zac",
+   "ad": "Zac",
+   "rol": "Tank"
+  },
+  {
+   "id": "Zed",
+   "ad": "Zed",
+   "rol": "Assassin"
+  },
+  {
+   "id": "Zeri",
+   "ad": "Zeri",
+   "rol": "Marksman"
+  },
+  {
+   "id": "Ziggs",
+   "ad": "Ziggs",
+   "rol": "Mage"
+  },
+  {
+   "id": "Zilean",
+   "ad": "Zilean",
+   "rol": "Support"
+  },
+  {
+   "id": "Zoe",
+   "ad": "Zoe",
+   "rol": "Mage"
+  },
+  {
+   "id": "Zyra",
+   "ad": "Zyra",
+   "rol": "Mage"
+  }
+ ]
+}
